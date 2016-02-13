@@ -520,7 +520,7 @@ a:hover {
     margin-right: 10px; }
 
   #home, #about, #projects, #contact {
-    height: 175%; }
+    height: 100vh; }
 
   .abouttext, .projectstext, .contacttext {
     font-family: Helvetica, sans-serif; }
@@ -658,7 +658,7 @@ a:hover {
     margin-right: 10px; }
 
   #home, #about, #projects, #contact {
-    height: 200%; }
+    height: 100vh; }
 
   .abouttext, .projectstext, .contacttext {
     font-family: Helvetica, sans-serif; }
